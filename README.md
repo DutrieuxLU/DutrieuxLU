@@ -1,5 +1,4 @@
 ### Hi there 
-//First Draft
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with any Open Source projects I can get my hands on1
