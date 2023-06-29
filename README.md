@@ -1,9 +1,8 @@
 ### Hi there 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with any Open Source projects I can get my hands on1
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning C++ and C 
+- 👯 I’m looking to collaborate on any Open-Source Projects I can get my hands on
+- 💬 Ask me about Formula One
+- 📫 How to reach me: dutrieuxbuisl@gmail.ocm
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: One pIece is the greatest storu ever told
 
