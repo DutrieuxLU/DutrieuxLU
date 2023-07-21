@@ -4,6 +4,6 @@
 - 💬 Ask me about Formula One
 - 📫 How to reach me: dutrieuxbuisl@gmail.ocm
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: One pIece is the greatest storu ever told
+- ⚡ Fun fact: One pIece is the greatest story ever told
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DutrieuxLU)](https://github.com/DutrieuxLU/github-readme-stats)
