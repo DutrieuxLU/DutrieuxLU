@@ -35,16 +35,7 @@ I'm a passionate developer who loves tackling challenging problems and building 
 
 ## 📈 Contribution Graph
 
-[![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DutrieuxLU&theme=react-dark)](https://github.com/DutrieuxLU)
-
-## 🔧 Latest Projects
-
-<a href="https://github.com/DutrieuxLU/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DutrieuxLU&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/DutrieuxLU/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DutrieuxLU&repo=project2&theme=radical" />
-</a>
+[![Lukas' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DutrieuxLU&theme=react-dark)](https://github.com/DutrieuxLU)
 
 ## 🤝 Connect with me
 
