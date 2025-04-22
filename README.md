@@ -10,7 +10,6 @@
 
 ## 🛠️ Tech Stack
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
