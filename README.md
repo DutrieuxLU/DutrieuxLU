@@ -4,10 +4,8 @@
 
 ## About Me 👨‍💻
 
-I'm a passionate developer who loves tackling challenging problems and building innovative solutions. When I'm not coding, you can find me exploring new technologies and contributing to open-source projects.
-
 - 👯 I'm looking to collaborate on any Open-Source Projects I can get my hands on
-- 📫 How to reach me: dutrieuxl31022@gmaill.com
+- 📫 How to reach me: dutrieuxl31022@gmaill.com || ldutrie@purdue.edu
 - 😄 Pronouns: He/Him/His
 
 ## 🛠️ Tech Stack
