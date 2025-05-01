@@ -23,7 +23,6 @@
 
 <a href="https://github.com/DutrieuxLU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DutrieuxLU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutrieuxLU&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 ## 🏆 GitHub Trophies
