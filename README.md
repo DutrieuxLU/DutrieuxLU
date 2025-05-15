@@ -2,13 +2,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DutrieuxLU?label=Follow&style=social)](https://github.com/DutrieuxLU)
 
-## About Me 👨‍💻
+## About Me
 
 - 👯 I'm looking to collaborate on any Open-Source Projects I can get my hands on
 - 📫 How to reach me: dutrieuxl31022@gmaill.com || ldutrie@purdue.edu
 - 😄 Pronouns: He/Him/His
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
@@ -19,21 +19,17 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/DutrieuxLU">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DutrieuxLU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DutrieuxLU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Lukas' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DutrieuxLU&theme=react-dark)](https://github.com/DutrieuxLU)
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="center">
 <a href="https://twitter.com/DutrieuxLU"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
