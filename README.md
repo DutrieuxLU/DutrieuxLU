@@ -1,33 +1,20 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 [![GitHub followers](https://img.shields.io/github/followers/DutrieuxLU?label=Follow&style=social)](https://github.com/DutrieuxLU)
 
 ## About Me
 
-- 👯 I'm looking to collaborate on any Open-Source Projects I can get my hands on
-- 📫 How to reach me: dutrieuxl31022@gmaill.com || ldutrie@purdue.edu
-- 😄 Pronouns: He/Him/His
+- Backend Engineer currently working on logging and building CLI tools.
+- How to reach me: dutrieuxl31022@gmaill.com || ldutrie@purdue.edu
+- I am interested in working on Cloud Development, Backend Development, and AI integration. If you have a cool project, Let me know!
 
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## GitHub Stats
-
-<a href="https://github.com/DutrieuxLU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DutrieuxLU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
-
-## Contribution Graph
-
-[![Lukas' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DutrieuxLU&theme=react-dark)](https://github.com/DutrieuxLU)
 
 ## Connect with me
 
@@ -36,7 +23,3 @@
 <a href="https://linkedin.com/in/DutrieuxLU"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/DutrieuxLU"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
 </p>
-
----
-
-⭐️ From [DutrieuxLU](https://github.com/DutrieuxLU)
