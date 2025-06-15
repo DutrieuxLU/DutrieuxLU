@@ -4,8 +4,8 @@
 ## About Me
 
 - Backend Engineer currently working on logging and building CLI tools.
-- How to reach me: dutrieuxl31022@gmaill.com || ldutrie@purdue.edu
-- I am interested in working on Cloud Development, Backend Development, and AI integration. If you have a cool project, Let me know!
+- How to reach me: dutrieuxl31022@gmail.com
+- I am interested in working on Automotive Software Engineering, NLP, and backend technologies. If you have a cool project, Let me know!
 
 ## Tech Stack
 
