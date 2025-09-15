@@ -2,8 +2,8 @@
 
 ## About Me
 
-- Backend Engineer currently working on logging and building CLI tools.
-- How to reach me: dutrieuxl31022@gmail.com
+- Backend & Systems Engineer
+- Working on projects in Embedded Systems, Operating Systems, and Networking
 
 
 # Tech Stack
