@@ -1,11 +1,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/DutrieuxLU?label=Follow&style=social)](https://github.com/DutrieuxLU)
 
 ## About Me
-
+Hello! My name is Lukas. I'm a junior in Computer Science at Purdue University, and I am looking to contribute to open-source and hopefully get a job! I have a few
+public projects that I am working on, but still have yet to make a contribution to a large, public repository. Check out my pinned tab for these repos!
+## Job Interest
 - Backend & Systems Engineer
 - Working on projects in Embedded Systems, Operating Systems, and Networking
-
-
 # Tech Stack
 
 <p align="center" style="font-size:1.2em">
